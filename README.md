@@ -103,3 +103,7 @@ Acessibilidade: Gratuito com opções premium.
 ![image](https://github.com/user-attachments/assets/152ab418-e2df-427d-9f06-7dee22711e1c)
 
 
+
+
+![image](https://github.com/user-attachments/assets/58bde977-3833-4950-9eab-94f2ec168fd4)
+
