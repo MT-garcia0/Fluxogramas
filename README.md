@@ -6,13 +6,19 @@
 
 ### Oval/Terminal
 
+![image](https://github.com/user-attachments/assets/5de8626c-a49d-4e14-aef7-f9944391657d)
+
 Representa o início ou o fim de um fluxograma; geralmente rotulado como Start ou End
 
 ### Retângulo/Processo
 
+![image](https://github.com/user-attachments/assets/e56648dc-1bcb-486c-94cb-1d1287f034d5)
+
 Indica uma tarefa ou ação específica dentro do processo
 
 ### Diamante/Decisão
+
+![image](https://github.com/user-attachments/assets/7a79ec15-f973-4e4f-8cec-ba11dbe89643)
 
 Representa um ponto de decisão, geralmente com opções de sim/não
 
@@ -92,5 +98,8 @@ Esses fluxogramas ajudam a entender como as estruturas de controle (como condiç
 
 Descrição: O Canva, além de ser usado para criar designs gráficos, também possui modelos e ferramentas para criar fluxogramas de maneira simples, com um visual mais moderno.
 Acessibilidade: Gratuito com opções premium.
+
+### Pratica
+![image](https://github.com/user-attachments/assets/152ab418-e2df-427d-9f06-7dee22711e1c)
 
 
